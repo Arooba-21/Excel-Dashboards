@@ -39,14 +39,3 @@ The **Store Analysis Dashboard** highlights:
 ### 📸 Screenshot  
 <img width="1002" height="477" alt="Excel project" src="https://github.com/user-attachments/assets/aa7e0164-1d70-4aab-a29b-b4098e28a966" />
 
-
-
-
-
-
-
-
-
-
-
-   git clone https://github.com/yourusername/excel-dashboards-coffee-store.git
